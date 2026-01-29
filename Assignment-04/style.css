@@ -1,0 +1,39 @@
+*{
+font-family: "Poppins", sans-serif;
+}
+*{
+    color: aliceblue;
+}
+.one{
+    width: 300px;
+    height: 600px;
+    background-image: url( https://ik.imagekit.io/aravinth007/MERN/todolistbg.png_updatedAt=1700761069523);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.two{
+    text-align: center;
+    
+}
+.four{
+    text-align: center;
+}
+.three{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    
+}
+.sub{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+   
+
+   
+}
+.five {
+    text-align: center;
+}
